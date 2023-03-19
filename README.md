@@ -1,4 +1,4 @@
-# Android device tree for alps k62v1_64_mex_a32 (k62v1_64_mex_a32)
+# Android device tree for Huawei Y5p (k62v1_64_mex_a32)
 
 ```
 #
