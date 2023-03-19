@@ -8,3 +8,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+Done with SebaUbuntu's twrpdtgen tool and fixed up the prebuilt kernel
+Compiles but untested, ETA for building your own kernel = when mediatek releases kernel source
+
+There is kernel source for huawei y5p however it is untested (usually mtk kernels have high levels of goofy)
